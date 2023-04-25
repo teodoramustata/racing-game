@@ -1,7 +1,7 @@
 package org.example;
 
 public class Car {
-    String name;
+    String name = "test";
     double fuelLevel;
     double mileage;
     double totalTraveledDistance;
